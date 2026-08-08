@@ -1,11 +1,11 @@
 <div align="center">
-  <h4>Hi, I'm Lcos 👋</h4>
+  <h2>Hi, I'm Lcos 👋</h2>
   <sub>Go Backend Engineer · Cloud Native · Database &amp; Observability</sub>
 </div>
 
 ---
 
-## 📊 GitHub Overview
+<sub>**📊 GitHub Overview**</sub>
 
 <div align="center">
   <a href="https://github.com/Lcos-000">
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+<sub>**🛠️ Tech Stack**</sub>
 
 <div align="center">
   <sub><b>Backend</b>&nbsp; </sub>
