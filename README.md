@@ -62,6 +62,10 @@
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
 <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux" /></a>
 <a href="https://www.markdownguide.org"><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" /></a>
+<a href="https://claude.com"><img src="https://img.shields.io/badge/Claude-D17A5F?style=flat-square&logo=claude&logoColor=white" alt="Claude" /></a>
+<a href="https://openai.com/codex"><img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logoColor=white" alt="Codex" /></a>
+<a href="https://opencode.ai"><img src="https://img.shields.io/badge/OpenCode-18181B?style=flat-square&logo=opencode&logoColor=white" alt="OpenCode" /></a>
+<a href="https://www.trae.ai"><img src="https://img.shields.io/badge/Trae-6C5CE7?style=flat-square&logo=trae&logoColor=white" alt="Trae" /></a>
 
 </div>
 
