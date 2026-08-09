@@ -29,7 +29,7 @@
 <table align="center">
   <tbody>
     <tr>
-      <td align="right" width="150"><sub><b>⚙️ Backend</b></sub></td>
+      <td width="150"><sub><b>⚙️ Backend</b></sub></td>
       <td align="left">
         <a href="https://go.dev"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="16" alt="Go" /></a>
         <a href="https://gin-gonic.com"><img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white" height="16" alt="Gin" /></a>
@@ -38,7 +38,7 @@
       </td>
     </tr>
     <tr>
-      <td><sub><b>☁️ Cloud &amp; DevOps</b></sub></td>
+      <td width="150"><sub><b>☁️ Cloud &amp; DevOps</b></sub></td>
       <td>
         <a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="16" alt="Kubernetes" /></a>
         <a href="https://k3s.io"><img src="https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=kubernetes&logoColor=111111" height="16" alt="K3s" /></a>
@@ -47,7 +47,7 @@
       </td>
     </tr>
     <tr>
-      <td><sub><b>🗄️ Database</b></sub></td>
+      <td width="150"><sub><b>🗄️ Database</b></sub></td>
       <td>
         <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="16" alt="MySQL" /></a>
         <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="16" alt="PostgreSQL" /></a>
@@ -55,14 +55,14 @@
       </td>
     </tr>
     <tr>
-      <td><sub><b>📈 Observability</b></sub></td>
+      <td width="150"><sub><b>📈 Observability</b></sub></td>
       <td>
         <a href="https://grafana.com"><img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" height="16" alt="Grafana" /></a>
         <a href="https://prometheus.io"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" height="16" alt="Prometheus" /></a>
       </td>
     </tr>
     <tr>
-      <td><sub><b>🧰 Tools &amp; AI</b></sub></td>
+      <td width="150"><sub><b>🧰 Tools &amp; AI</b></sub></td>
       <td>
         <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="16" alt="Git" /></a>
         <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" height="16" alt="Linux" /></a>
