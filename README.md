@@ -1,8 +1,8 @@
 <div align="center">
-  <h2>Hi, I'm Lcos 👋</h2>
   <p>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Go+Backend+Engineer;Cloud+Native+Enthusiast;Database+%26+Observability+Lover&font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=57606A&center=true&vCenter=true&width=420&height=30" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Lcos+%F0%9F%91%8B&font=Fira+Code&weight=600&size=26&duration=2000&pause=0&color=24292F&center=true&vCenter=true&width=400&height=40" alt="Typing SVG" />
   </p>
+  <sub>Go Backend Engineer · Cloud Native · Database &amp; Observability</sub>
 </div>
 
 ---
