@@ -48,6 +48,7 @@
         <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="16" alt="Docker" /></a>
         <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="16" alt="GitHub Actions" /></a>
         <a href="https://zotregistry.dev"><img src="https://img.shields.io/badge/Zot-0F70B8?style=flat-square&logo=zot&logoColor=white" height="16" alt="Zot" /></a>
+        <a href="https://nats.io"><img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=nats&logoColor=white" height="16" alt="NATS" /></a>
       </td>
     </tr>
     <tr>
