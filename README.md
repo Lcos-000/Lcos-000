@@ -37,6 +37,7 @@
         <a href="https://gin-gonic.com"><img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white" height="16" alt="Gin" /></a>
         <a href="https://github.com/cloudwego/hertz"><img src="https://img.shields.io/badge/Hertz-40E0D0?style=flat-square&logo=cloudflare&logoColor=white" height="16" alt="Hertz" /></a>
         <a href="https://github.com/cloudwego/eino"><img src="https://img.shields.io/badge/Eino-7C3AED?style=flat-square&logo=go&logoColor=white" height="16" alt="Eino" /></a>
+        <a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" height="16" alt="Redis" /></a>
       </td>
     </tr>
     <tr>
