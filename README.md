@@ -78,6 +78,8 @@
       <td>
         <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="16" alt="Git" /></a>
         <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" height="16" alt="Linux" /></a>
+        <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" height="16" alt="Shell" /></a>
+        <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="16" alt="Python" /></a>
         <a href="https://www.markdownguide.org"><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" height="16" alt="Markdown" /></a>
         <a href="https://claude.com"><img src="https://img.shields.io/badge/Claude-D17A5F?style=flat-square&logo=claude&logoColor=white" height="16" alt="Claude" /></a>
         <a href="https://openai.com/codex"><img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logoColor=white" height="16" alt="Codex" /></a>
