@@ -67,6 +67,8 @@
       <td>
         <a href="https://grafana.com"><img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" height="16" alt="Grafana" /></a>
         <a href="https://prometheus.io"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" height="16" alt="Prometheus" /></a>
+        <a href="https://victoriametrics.com"><img src="https://img.shields.io/badge/VictoriaMetrics-621773?style=flat-square&logo=victoriametrics&logoColor=white" height="16" alt="VictoriaMetrics" /></a>
+        <a href="https://github.com/flashcatcloud/categraf"><img src="https://img.shields.io/badge/Categraf-4F46E5?style=flat-square&logo=grafana&logoColor=white" height="16" alt="Categraf" /></a>
       </td>
     </tr>
     <tr>
