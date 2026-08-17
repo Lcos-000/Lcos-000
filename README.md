@@ -38,6 +38,8 @@
         <a href="https://github.com/cloudwego/hertz"><img src="https://img.shields.io/badge/Hertz-40E0D0?style=flat-square&logo=cloudflare&logoColor=white" height="16" alt="Hertz" /></a>
         <a href="https://github.com/cloudwego/eino"><img src="https://img.shields.io/badge/Eino-7C3AED?style=flat-square&logo=go&logoColor=white" height="16" alt="Eino" /></a>
         <a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" height="16" alt="Redis" /></a>
+        <a href="https://dubbo.apache.org"><img src="https://img.shields.io/badge/Dubbo-FF4D00?style=flat-square&logo=apache&logoColor=white" height="16" alt="Dubbo" /></a>
+        <a href="https://nacos.io"><img src="https://img.shields.io/badge/Nacos-289CF7?style=flat-square&logo=nacos&logoColor=white" height="16" alt="Nacos" /></a>
       </td>
     </tr>
     <tr>
