@@ -51,6 +51,8 @@
         <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="16" alt="GitHub Actions" /></a>
         <a href="https://zotregistry.dev"><img src="https://img.shields.io/badge/Zot-0F70B8?style=flat-square&logo=zot&logoColor=white" height="16" alt="Zot" /></a>
         <a href="https://nats.io"><img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=nats&logoColor=white" height="16" alt="NATS" /></a>
+        <a href="https://argo-cd.readthedocs.io"><img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" height="16" alt="Argo CD" /></a>
+        <a href="https://gitea.io"><img src="https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=gitea&logoColor=white" height="16" alt="Gitea" /></a>
       </td>
     </tr>
     <tr>
