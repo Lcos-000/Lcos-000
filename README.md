@@ -40,6 +40,7 @@
         <a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" height="16" alt="Redis" /></a>
         <a href="https://dubbo.apache.org"><img src="https://img.shields.io/badge/Dubbo-FF4D00?style=flat-square&logo=apache&logoColor=white" height="16" alt="Dubbo" /></a>
         <a href="https://nacos.io"><img src="https://img.shields.io/badge/Nacos-289CF7?style=flat-square&logo=nacos&logoColor=white" height="16" alt="Nacos" /></a>
+        <a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="16" alt="PHP" /></a>
       </td>
     </tr>
     <tr>
