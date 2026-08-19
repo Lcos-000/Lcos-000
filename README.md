@@ -5,7 +5,7 @@
   <p>
     <a href="https://go.dev"><img src="https://img.shields.io/badge/Go_Backend_Engineer-00ADD8?style=flat-square&logo=go&logoColor=white" height="20" alt="Go Backend Engineer" /></a>
     <a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Cloud_Native-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="20" alt="Cloud Native" /></a>
-    <a href="https://grafana.com"><img src="https://img.shields.io/badge/Database_%26_Observability-0969DA?style=flat-square&logo=grafana&logoColor=white" height="20" alt="Database & Observability" /></a>
+    <a href="https://opencode.ai"><img src="https://img.shields.io/badge/AI_Infra-7C3AED?style=flat-square&logo=opencode&logoColor=white" height="20" alt="AI Infra" /></a>
   </p>
 </div>
 
