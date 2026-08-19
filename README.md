@@ -2,7 +2,11 @@
   <p>
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Lcos+%F0%9F%91%8B&font=Fira+Code&weight=600&size=26&duration=2000&pause=0&color=24292F&center=true&vCenter=true&width=400&height=40" alt="Typing SVG" />
   </p>
-  <sub>Go Backend Engineer · Cloud Native · Database &amp; Observability</sub>
+  <p>
+    <a href="https://go.dev"><img src="https://img.shields.io/badge/Go_Backend_Engineer-00ADD8?style=flat-square&logo=go&logoColor=white" height="20" alt="Go Backend Engineer" /></a>
+    <a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Cloud_Native-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="20" alt="Cloud Native" /></a>
+    <a href="https://grafana.com"><img src="https://img.shields.io/badge/Database_%26_Observability-0969DA?style=flat-square&logo=grafana&logoColor=white" height="20" alt="Database & Observability" /></a>
+  </p>
 </div>
 
 ---
