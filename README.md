@@ -67,6 +67,7 @@
         <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="16" alt="PostgreSQL" /></a>
         <a href="https://github.com/pgvector/pgvector"><img src="https://img.shields.io/badge/PGVector-1B4D6B?style=flat-square&logo=postgresql&logoColor=white" height="16" alt="PGVector" /></a>
         <a href="https://www.sqlite.org"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" height="16" alt="SQLite" /></a>
+        <a href="https://etcd.io"><img src="https://img.shields.io/badge/etcd-419EDA?style=flat-square&logo=etcd&logoColor=white" height="16" alt="etcd" /></a>
       </td>
     </tr>
     <tr>
