@@ -1,41 +1,41 @@
 <div align="center">
   <p>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Lcos+%F0%9F%91%8B&font=Fira+Code&weight=600&size=26&duration=2000&pause=0&color=0EA5E9&center=true&vCenter=true&width=400&height=40" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Lcos+%F0%9F%91%8B&font=Fira+Code&weight=600&size=26&duration=2000&pause=0&color=24292F&center=true&vCenter=true&width=400&height=40" alt="Typing SVG" />
   </p>
   <p>
-    <a href="https://go.dev"><img src="https://img.shields.io/badge/Go_Backend_Engineer-60A5FA?style=flat-square&logo=go&logoColor=white" height="20" alt="Go Backend Engineer" /></a>
-    <a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Cloud_Native-38BDF8?style=flat-square&logo=kubernetes&logoColor=white" height="20" alt="Cloud Native" /></a>
-    <a href="https://opencode.ai"><img src="https://img.shields.io/badge/AI_Infra-0EA5E9?style=flat-square&logo=opencode&logoColor=white" height="20" alt="AI Infra" /></a>
+    <a href="https://go.dev"><img src="https://img.shields.io/badge/Go_Backend_Engineer-00ADD8?style=flat-square&logo=go&logoColor=white" height="20" alt="Go Backend Engineer" /></a>
+    <a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Cloud_Native-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="20" alt="Cloud Native" /></a>
+    <a href="https://opencode.ai"><img src="https://img.shields.io/badge/AI_Infra-7C3AED?style=flat-square&logo=opencode&logoColor=white" height="20" alt="AI Infra" /></a>
   </p>
 </div>
 
 ---
 
-<sub style="color:#0EA5E9">**📊 GitHub Overview**</sub>
+<sub>**📊 GitHub Overview**</sub>
 
 <div align="center">
   <a href="https://github.com/Lcos-000">
-    <img height="120" src="https://github-readme-stats.vercel.app/api?username=Lcos-000&show_icons=true&hide_border=true&border_radius=8&bg_color=ffffff&title_color=0EA5E9&text_color=64748B&icon_color=7DD3FC&include_all_commits=true" alt="GitHub stats" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api?username=Lcos-000&show_icons=true&hide_border=true&border_radius=8&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=0969DA&include_all_commits=true" alt="GitHub stats" />
   </a>
   <a href="https://github.com/Lcos-000">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lcos-000&layout=compact&hide_border=true&border_radius=8&bg_color=ffffff&title_color=0EA5E9&text_color=64748B&langs_count=6" alt="Top languages" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lcos-000&layout=compact&hide_border=true&border_radius=8&bg_color=ffffff&title_color=24292f&text_color=57606a&langs_count=6" alt="Top languages" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Lcos-000">
-    <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lcos-000&bg_color=ffffff&color=94A3B8&line=38BDF8&point=0EA5E9&area=true&hide_border=true&radius=8" alt="GitHub activity graph" />
+    <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lcos-000&bg_color=ffffff&color=57606a&line=0969DA&point=8250DF&area=true&hide_border=true&radius=8" alt="GitHub activity graph" />
   </a>
 </div>
 
 ---
 
-<sub style="color:#0EA5E9">**🛠️ Tech Stack**</sub>
+<sub>**🛠️ Tech Stack**</sub>
 
 <table align="center">
   <tbody>
     <tr>
-      <td width="150"><sub style="color:#0EA5E9"><b>⚙️ Backend</b></sub></td>
+      <td width="150"><sub><b>⚙️ Backend</b></sub></td>
       <td align="left">
         <a href="https://go.dev"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="16" alt="Go" /></a>
         <a href="https://gin-gonic.com"><img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white" height="16" alt="Gin" /></a>
@@ -48,7 +48,7 @@
       </td>
     </tr>
     <tr>
-      <td width="150"><sub style="color:#0EA5E9"><b>☁️ Cloud &amp; DevOps</b></sub></td>
+      <td width="150"><sub><b>☁️ Cloud &amp; DevOps</b></sub></td>
       <td>
         <a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="16" alt="Kubernetes" /></a>
         <a href="https://k3s.io"><img src="https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=kubernetes&logoColor=111111" height="16" alt="K3s" /></a>
@@ -61,7 +61,7 @@
       </td>
     </tr>
     <tr>
-      <td width="150"><sub style="color:#0EA5E9"><b>🗄️ Database</b></sub></td>
+      <td width="150"><sub><b>🗄️ Database</b></sub></td>
       <td>
         <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="16" alt="MySQL" /></a>
         <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="16" alt="PostgreSQL" /></a>
@@ -70,7 +70,7 @@
       </td>
     </tr>
     <tr>
-      <td width="150"><sub style="color:#0EA5E9"><b>📈 Observability</b></sub></td>
+      <td width="150"><sub><b>📈 Observability</b></sub></td>
       <td>
         <a href="https://grafana.com"><img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" height="16" alt="Grafana" /></a>
         <a href="https://prometheus.io"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" height="16" alt="Prometheus" /></a>
@@ -79,7 +79,7 @@
       </td>
     </tr>
     <tr>
-      <td width="150"><sub style="color:#0EA5E9"><b>🧰 Tools &amp; AI</b></sub></td>
+      <td width="150"><sub><b>🧰 Tools &amp; AI</b></sub></td>
       <td>
         <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="16" alt="Git" /></a>
         <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" height="16" alt="Linux" /></a>
@@ -97,4 +97,4 @@
 
 ---
 
-<div align="center"><font size="2" color="#0EA5E9">Thanks for visiting my profile!</font></div>
+<div align="center"><font size="2">Thanks for visiting my profile!</font></div>
