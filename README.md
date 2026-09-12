@@ -14,7 +14,7 @@
 <sub>**📊 GitHub Overview**</sub>
 
 <div align="center">
-  <img width="90%" src="./assets/heatmap.svg?v=202609120935" alt="Contribution heatmap" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Lcos-000&hide_border=true&background=FFFFFF&ring=0EA5E9&fire=38BDF8&currStreakLabel=0EA5E9&currStreakNum=0EA5E9&sideNums=0EA5E9&sideLabels=0EA5E9&dates=94A3B8&stroke=38BDF8&border=38BDF8" alt="GitHub streak stats" />
 </div>
 
 ---
