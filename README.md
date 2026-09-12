@@ -17,13 +17,6 @@
   <img width="90%" src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" />
 </div>
 
-<div align="center">
-  <img width="49%" src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per language" />
-  <img width="49%" src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most commit language" />
-  <img width="49%" src="./profile-summary-card-output/github/3-stats.svg" alt="Stats" />
-  <img width="49%" src="./profile-summary-card-output/github/4-productive-time.svg" alt="Productive time" />
-</div>
-
 ---
 
 <sub>**🛠️ Tech Stack**</sub>
