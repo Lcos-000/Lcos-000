@@ -14,7 +14,7 @@
 <sub>**📊 GitHub Overview**</sub>
 
 <div align="center">
-  <img width="90%" src="./assets/heatmap.svg?v=1" alt="Contribution heatmap" />
+  <img width="90%" src="./assets/heatmap.svg?v=202609120935" alt="Contribution heatmap" />
 </div>
 
 ---
