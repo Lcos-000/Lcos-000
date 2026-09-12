@@ -22,4 +22,20 @@ jobs:
           BRANCH_NAME: "main"
           UTC_OFFSET: 8
           THEME: "github"
-          AUTO_PUSH: true
+          AUTO_PUSH: false
+
+      - name: Recolor contributions chart to light blue
+        run: |
+          sed -i 's/stroke="#40c463"/stroke="#38BDF8"/g; s/fill="#40c463"/fill="#7DD3FC"/g; s/color="#40c463"/color="#38BDF8"/g' profile-summary-card-output/github/0-profile-details.svg
+
+      - name: Commit and push cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update profile summary cards"
+            git push
+          fi
