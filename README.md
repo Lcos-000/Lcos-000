@@ -14,7 +14,7 @@
 <sub>**📊 GitHub Overview**</sub>
 
 <div align="center">
-  <img width="90%" src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" />
+  <img width="90%" src="./profile-summary-card-output/github/0-profile-details.svg?v=1" alt="Profile details" />
 </div>
 
 ---
