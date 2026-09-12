@@ -14,7 +14,7 @@
 <sub>**📊 GitHub Overview**</sub>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Lcos-000&hide_border=true&background=FFFFFF&ring=0EA5E9&fire=38BDF8&currStreakLabel=0EA5E9&currStreakNum=0EA5E9&sideNums=0EA5E9&sideLabels=0EA5E9&dates=94A3B8&stroke=38BDF8&border=38BDF8" alt="GitHub streak stats" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Lcos-000&hide_border=true&background=FFFFFF&ring=A78BFA&fire=C4B5FD&currStreakLabel=8B5CF6&currStreakNum=7C3AED&sideNums=8B5CF6&sideLabels=8B5CF6&dates=A78BFA&stroke=C4B5FD&border=DDD6FE" alt="GitHub streak stats" />
 </div>
 
 ---
