@@ -14,18 +14,14 @@
 <sub>**📊 GitHub Overview**</sub>
 
 <div align="center">
-  <a href="https://github.com/Lcos-000">
-    <img height="120" src="https://github-readme-stats.vercel.app/api?username=Lcos-000&show_icons=true&hide_border=true&border_radius=8&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=0969DA&include_all_commits=true" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/Lcos-000">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lcos-000&layout=compact&hide_border=true&border_radius=8&bg_color=ffffff&title_color=24292f&text_color=57606a&langs_count=6" alt="Top languages" />
-  </a>
+  <img width="90%" src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/Lcos-000">
-    <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lcos-000&bg_color=ffffff&color=57606a&line=0969DA&point=8250DF&area=true&hide_border=true&radius=8" alt="GitHub activity graph" />
-  </a>
+  <img width="49%" src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per language" />
+  <img width="49%" src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most commit language" />
+  <img width="49%" src="./profile-summary-card-output/github/3-stats.svg" alt="Stats" />
+  <img width="49%" src="./profile-summary-card-output/github/4-productive-time.svg" alt="Productive time" />
 </div>
 
 ---
