@@ -14,7 +14,7 @@
 <sub>**📊 GitHub Overview**</sub>
 
 <div align="center">
-  <img width="70%" src="./profile/streak.svg?v=202611241303" alt="GitHub streak stats" />
+  <img width="70%" src="./profile/streak.svg?v=202611251152" alt="GitHub streak stats" />
 </div>
 
 ---
